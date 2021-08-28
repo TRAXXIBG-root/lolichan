@@ -1,7 +1,7 @@
 /**
  * These exports are the information of your module, the bot gonna use them for logs.
  */
-exports.name = 'SDK-module';
+exports.name = 'Loli-Chan';
 exports.version = '1.0.0';
 
 /**
